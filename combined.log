@@ -1,0 +1,2 @@
+{"level":"info","message":"{reqUrl: / reqBody: {}}","service":"request-logging"}
+{"level":"info","message":"{reqUrl: /favicon.ico reqBody: {}}","service":"request-logging"}

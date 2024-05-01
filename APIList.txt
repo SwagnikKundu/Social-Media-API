@@ -1,0 +1,23 @@
+PostController:
+* Get All Posts - Done
+* Get Specific Post by id - Done
+* Get All Posts of a specific User - Done
+* Get All Posts Sorted - Done
+* Create a Post - Done
+* Draft a Post - Done
+* Archive a Post - Done
+* Edit a Post - Done
+* Delete a Post - Done
+* Comment on a Post - Done
+* Filter Post by Caption - Done
+* Update Comment - Done
+* Delete Comment - Done
+* Get All Comments of a specific Post - Done
+* Like a Post - Done
+* Unlike a Post - Done
+* Get all likes of a specific Post - Done
+
+
+UserController:
+* Signup - Email, Name, Password  - Done
+* Signin - (Email, Password)  - Done
